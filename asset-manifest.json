@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wheres-waldo-game/static/css/main.b8f8191f.css",
+    "main.js": "/wheres-waldo-game/static/js/main.4a7fe215.js",
+    "static/js/787.6ecc464b.chunk.js": "/wheres-waldo-game/static/js/787.6ecc464b.chunk.js",
+    "static/media/Montserrat-Italic-VariableFont_wght.ttf": "/wheres-waldo-game/static/media/Montserrat-Italic-VariableFont_wght.ef11b720b9a6cfb9a317.ttf",
+    "index.html": "/wheres-waldo-game/index.html",
+    "main.b8f8191f.css.map": "/wheres-waldo-game/static/css/main.b8f8191f.css.map",
+    "main.4a7fe215.js.map": "/wheres-waldo-game/static/js/main.4a7fe215.js.map",
+    "787.6ecc464b.chunk.js.map": "/wheres-waldo-game/static/js/787.6ecc464b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8f8191f.css",
+    "static/js/main.4a7fe215.js"
+  ]
+}
