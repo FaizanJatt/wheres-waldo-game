@@ -9,7 +9,5 @@ Otherwise nothing will happen
 
 as soon as you find all of the characters. the count will stop and it will display the amount of time it took you to find all of the characters.
 and there will be a pretty confetti effect.
-
-
-https://faizanjatt.github.io/wheres-w...
+https://faizanjatt.github.io/wheres-waldo-game/
 The artwork is not mine.
